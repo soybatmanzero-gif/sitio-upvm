@@ -13,6 +13,7 @@ $q = urlencode(MAPA_NOMBRE);
     <div class="botones">
       <a class="btn gris" href="crud/index.php">Ver CRUD</a>
       <a class="btn" href="encuesta.php">Contestar encuesta</a>
+      <a class="btn sec" href="video.php">▶ Ver mi video</a>
     </div>
     <div class="stats">
       <div class="stat"><span>Encuesta</span><b>5</b><small>preguntas</small></div>

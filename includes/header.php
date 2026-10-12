@@ -22,6 +22,7 @@ $u = usuario_actual();
     <a href="<?= $base ?>encuesta.php">Encuesta</a>
     <a href="<?= $base ?>crud/index.php">CRUD</a>
     <a href="<?= $base ?>index.php#ubicacion">Ubicación</a>
+    <a href="<?= $base ?>video.php">Video</a>
   </nav>
   <div class="sesion">
     <?php if ($u): ?>
